@@ -182,7 +182,7 @@ Just a dump for browser bookmarks
 
 ### Prometheus
 - [Prometheus](https://prometheus.io/)
-  Open source monitoring solution. Often used with Grafana for visualization.
+  <br/>Open source monitoring solution. Often used with Grafana for visualization.
 - [Promlens](https://promlens.com/)
   <br/>Tool for building, understanding and fixing PromQL queries
 
