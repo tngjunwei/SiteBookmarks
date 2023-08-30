@@ -8,12 +8,16 @@ Just a dump for browser bookmarks
   - [Entertainment](#entertainment)
   - [News](#news)
     - [Scientific](#scientific)
+    - [Law](#law)
   - [Self-Improvement](#self-improvement)
   - [E-Books](#e-books)
   - [Tools](#tools)
   - [Postgraduate](#postgraduate)
   - [Typing Practice](#typing-practice)
   - [Light Novels](#light-novels)
+  - [Interesting Things](#interesting-things)
+  - [Teach people how to google, instead of relying on others for answers](#teach-people-how-to-google-instead-of-relying-on-others-for-answers)
+  - [Sudoku](#sudoku)
   - [Programming](#programming)
     - [Useful Resources](#useful-resources)
     - [Technical Interviews](#technical-interviews)
@@ -41,16 +45,21 @@ Just a dump for browser bookmarks
       - [Examples](#examples)
     - [Regex](#regex)
     - [Data Analytics Stuff](#data-analytics-stuff)
+    - [Testing](#testing)
     - [Logging](#logging)
+  - [Game Programming](#game-programming)
+  - [Security](#security)
     - [Boilerplates](#boilerplates)
     - [Misc](#misc)
     - [Public APIs](#public-apis)
     - [Blogs](#blogs)
-    - [Interesting Things](#interesting-things)
+    - [Interesting Things](#interesting-things-1)
 
 ## Entertainment
 - [Top Documentary Films](https://topdocumentaryfilms.com/)
 - [Flixtor.id](https://flixtor.id/)
+- [Newpipe](https://newpipe.net/#lightweight)
+  <br/>Lightweight Youtube experience for Android
 
 
 ## News
@@ -58,10 +67,15 @@ Just a dump for browser bookmarks
 - [MIT Tech Review](https://www.technologyreview.com/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 
+### Law
+- [Singapore Supreme Court Judgements](https://www.elitigation.sg/gd/)
+
 
 ## Self-Improvement
 - [TED Ideas](https://ideas.ted.com/)
-
+- [Farnam Street](https://fs.blog/)
+  - [Decision Making](https://fs.blog/category/decision-making/)
+- [AseemGupta's Blog](https://aseemgupta.com/blog/)
 
 ## E-Books
 - [FreeComputerBooks](https://freecomputerbooks.com/)
@@ -69,6 +83,9 @@ Just a dump for browser bookmarks
 
 ## Tools
 - [Excalidraw](https://excalidraw.com/)
+  <br/>Onling drawing
+- [Privacy](https://privacy.com/)
+  <br/>Private and convenient virtual cards
 
 
 ## Postgraduate
@@ -83,6 +100,20 @@ Just a dump for browser bookmarks
 ## Light Novels
 - [That Novel Corner](https://thatnovelcorner.com/light-novels/)
 - [Just Light Novels](https://justlightnovels.com/)
+
+## Interesting Things 
+- [Neal.fun](https://neal.fun/)
+  <br/>Host a number of interesting applications/games, including **The Password Game**
+- [NoHello](https://nohello.net/en/)
+  <br/>Reminder for people to text more than a Hello
+- [LetMeGoogleThatForYou](https://letmegooglethat.com/)
+  <br/>Teach people how to google, instead of relying on others for answers
+- 
+
+## Sudoku
+- [Sudoku Solving Techniques](https://sudoku9x9.com/sudoku_solving_techniques.php)
+- [The New Sudoku Players' Forum](http://forum.enjoysudoku.com/)
+
 
 ## Programming
 ### Useful Resources
@@ -217,9 +248,30 @@ Data structures & Algorithms
 - [Grafana](https://grafana.com/)
   <br/>Dashboard for analytics
 
+### Testing
+- Golang
+  - [Testify](https://github.com/stretchr/testify)
+  - [Gomock](https://github.com/golang/mock)
+- Frontend
+  - [Cypress](https://www.cypress.io/)
 
 ### Logging
 - [Ultimate Guide to Logging](https://www.loggly.com/ultimate-guide/)
+
+
+## Game Programming
+- Godot
+  - [Gitting Gud at Godot](http://alexhoratiogamedev.blogspot.com/2017/05/gitting-gud-at-godot-part-1.html)
+  - [Getting Started at Godot](https://devga.me/tutorials/godot2d/)
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/)
+
+## Security
+- [Hackerone](https://www.hackerone.com/)
+  
+- Web Security
+  - [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html)
+  - [OWASP](https://owasp.org/www-project-api-security/)
+  
 
 ### Boilerplates
 - [Electron-React](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
@@ -238,11 +290,16 @@ Data structures & Algorithms
   <br/>Fake API for testing and prototyping
 
 ### Blogs
-- [David Heinemeier Hansson](https://world.hey.com/dhh)
-- [Joel Spolsky](https://www.joelonsoftware.com/)
-- [Jonathon Boccara (FluentC++)](https://www.fluentcpp.com/)
-- [Simple Thread](https://www.simplethread.com/blog/)
-- [Slack Engineering](https://slack.engineering/)
+- Individuals
+  - [David Heinemeier Hansson](https://world.hey.com/dhh)
+  - [Joel Spolsky](https://www.joelonsoftware.com/)
+  - [Jonathon Boccara (FluentC++)](https://www.fluentcpp.com/)
+  - [Adventures in the Programming Jungle by Adrian Citu](https://adriancitu.com/)
+- Corporates
+  - [Simple Thread](https://www.simplethread.com/blog/)
+  - [Slack Engineering](https://slack.engineering/)
+  - [Cloudflare Blog](https://blog.cloudflare.com/)
+
 
 
 ### Interesting Things
