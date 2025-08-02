@@ -335,6 +335,7 @@ Data structures & Algorithms
 ### Interesting Things
 - [Motion Canvas](https://motioncanvas.io/)
 - [The Curious Creations of Tim Holman](https://tholman.com/)
+- [NandGame](https://nandgame.com/)
 
 ### ERP
 - [Twenty](https://github.com/twentyhq/twenty)
