@@ -22,6 +22,8 @@ Just a dump for browser bookmarks
     - [Useful Resources](#useful-resources)
     - [Technical Interviews](#technical-interviews)
     - [Design Patterns](#design-patterns)
+    - [Rust](#rust)
+    - [Powershell](#powershell)
     - [Vue](#vue)
     - [React](#react)
       - [UI](#ui)
@@ -43,6 +45,7 @@ Just a dump for browser bookmarks
     - [Auth](#auth)
     - [System Design](#system-design)
       - [Examples](#examples)
+    - [Domain-Driven Design](#ddd)
     - [Regex](#regex)
     - [Data Analytics Stuff](#data-analytics-stuff)
     - [Testing](#testing)
@@ -54,6 +57,7 @@ Just a dump for browser bookmarks
     - [Public APIs](#public-apis)
     - [Blogs](#blogs)
     - [Interesting Things](#interesting-things-1)
+  - [ERP](#erp)
 
 ## Entertainment
 - [Top Documentary Films](https://topdocumentaryfilms.com/)
@@ -79,6 +83,7 @@ Just a dump for browser bookmarks
 
 ## E-Books
 - [FreeComputerBooks](https://freecomputerbooks.com/)
+- [Open Library Archive](https://annas-archive.org/)
 
 
 ## Tools
@@ -108,7 +113,7 @@ Just a dump for browser bookmarks
   <br/>Reminder for people to text more than a Hello
 - [LetMeGoogleThatForYou](https://letmegooglethat.com/)
   <br/>Teach people how to google, instead of relying on others for answers
-- 
+- [Free Media](https://fmhy.net/)
 
 ## Sudoku
 - [Sudoku Solving Techniques](https://sudoku9x9.com/sudoku_solving_techniques.php)
@@ -128,10 +133,18 @@ Just a dump for browser bookmarks
 - [FreeCodeCamp - Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/#data-structures)
 - [CodeSpaghetti - How to Succeed in Technical Interviews](http://www.codespaghetti.com/interview-success/)
 - [Neetcode Practice](https://neetcode.io/practice)
+- [CSES](https://cses.fi/problemset/)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ### Design Patterns
 - [Design Patterns](https://refactoring.guru/design-patterns)
 - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
+
+### Rust
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
+
+### Powershell
+- [Learn Powershell](https://github.com/vexx32/PSKoans)
 
 ### Vue
 - [Vuejs](https://vuejs.org/)
@@ -156,6 +169,7 @@ Just a dump for browser bookmarks
 ### CSS
 - [FreeCodeCamp - CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [CSS Diner](https://flukeout.github.io/)
 
 ### Database
 
@@ -180,6 +194,7 @@ Just a dump for browser bookmarks
 - [SpringFrameworkGuru](https://springframework.guru/blog/)
 - [Baeldung](https://www.baeldung.com/)
 - [Spring Initializer](https://start.spring.io/)
+- [Spring Resources](https://github.com/ThomasVitale/awesome-spring)
 
 #### JS
 - [joi](https://github.com/hapijs/joi)
@@ -217,6 +232,8 @@ Just a dump for browser bookmarks
 - [Promlens](https://promlens.com/)
   <br/>Tool for building, understanding and fixing PromQL queries
 
+### Misc
+- [Cloud Services Comparison](https://comparecloud.in/)
 
 ### DSA
 Data structures & Algorithms
@@ -233,10 +250,14 @@ Data structures & Algorithms
 - [FreeCodeCamp - System Design Interview Concepts](https://www.freecodecamp.org/news/systems-design-for-interviews/)
 - [Awesome Software Architecture](https://awesome-architecture.com/)
 - [Microservices Architecture](https://microservices.io/)
+- [System Design The Complete Course](https://kps.hashnode.dev/system-design-the-complete-course)
 
 #### Examples
 - [Design a Messaging App](https://bytebytego.com/courses/system-design-interview/design-a-chat-system)
 - [Examples from HighScalability](highscalability.com/blog/category/example)
+
+### DDD
+- [Awesome DDD](https://github.com/heynickc/awesome-ddd)
 
 ### Regex
 - [Regular-Expressions.info](https://www.regular-expressions.info/quickstart.html)
@@ -299,9 +320,27 @@ Data structures & Algorithms
   - [Simple Thread](https://www.simplethread.com/blog/)
   - [Slack Engineering](https://slack.engineering/)
   - [Cloudflare Blog](https://blog.cloudflare.com/)
-
+  - [Discord](https://discord.com/category/engineering)
+  - [Meta](https://engineering.fb.com/)
+  - [AWS](https://aws.amazon.com/blogs/architecture/)
+  - [Netflix](https://netflixtechblog.com/)
+  - [Uber](https://www.uber.com/blog/seattle/engineering/)
+  - [Twitter](https://blog.twitter.com/engineering/en_us)
+  - [Dropbox](https://dropbox.tech/)
+  - [Spotify](https://engineering.atspotify.com/)
+  - [Github](https://github.blog/category/engineering/)
+  - [Stripe](https://stripe.com/blog/engineering)
 
 
 ### Interesting Things
 - [Motion Canvas](https://motioncanvas.io/)
 - [The Curious Creations of Tim Holman](https://tholman.com/)
+
+### ERP
+- [Twenty](https://github.com/twentyhq/twenty)
+- [ErpNext](https://docs.erpnext.com/homepage)
+- [BlueSeer](https://github.com/blueseerERP/blueseer)
+- [Steara](https://steara.com/)
+- [Odoo](https://github.com/odoo/odoo)
+- [Monica](https://github.com/monicahq/monica)
+- [Akaunting](https://github.com/akaunting/akaunting)
